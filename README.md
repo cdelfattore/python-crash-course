@@ -1,1 +1,2 @@
 # python-crash-course
+This repo contains code samples and exercises from the book [Python Crash Couse by Eric Matthes](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=zg_bs_g_4016_d_sccl_1/144-5564871-6765033?psc=1)
